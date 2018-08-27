@@ -1,0 +1,6 @@
+numpy
+Pillow>=1.0
+Flask
+tensorflow==1.4.0
+six
+matplotlib
